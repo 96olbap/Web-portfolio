@@ -25,3 +25,27 @@
   color: black;
   padding: 8px 25px;
 }
+.navbar ul li a:hover{
+  background-color: black;
+  color: white;
+}
+#Home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  position: absolute;
+  top: 60%;
+}
+.headings{
+  font-family: century;
+  font-size: 3rem;
+  text-align: center;
+  margin: 30px;
+}
