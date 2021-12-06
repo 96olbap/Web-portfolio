@@ -78,7 +78,16 @@ img{
 }
 .card-body ol li a:hover{
   background-color: #3b0111;
+  color: white;
 }
 .card-title{
   color: #140106;
+}
+.card-footer{
+  margin: 10px;
+  padding: 25px;
+  background-color: #1c0109;
+  font-size: 30px;
+  color: white;
+  text-align: center;
 }
