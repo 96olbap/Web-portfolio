@@ -3,3 +3,11 @@
   padding: 0px;
   box-sizing: border-box;
 }
+.navbar{
+  display: flex;
+  justify-content: center;
+  background-color: #cbcfd6;
+  align-items: center;
+  position: sticky;
+  top: 0;
+}
