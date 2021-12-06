@@ -53,9 +53,9 @@
   margin: 30px;
 }
 .container{
-  background-color: black;
+  background-color: grey;
   front-family: century;
-  color: white;
+  color: black;
   border: 2px solid white;
 }
 img{
@@ -73,9 +73,12 @@ img{
   color: #941606;
 }
 .card-body ol li a{
-  color: #bee630;
+  color: #081401;
   padding: 6px 20px;
 }
 .card-body ol li a:hover{
-  background-color: #132e03;
+  background-color: #3b0111;
+}
+.card-title{
+  color: #140106;
 }
