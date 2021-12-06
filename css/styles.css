@@ -62,3 +62,20 @@ img{
   float: left;
   width: 30%;
 }
+.card-body ol{
+  display: block;
+  margin: 20px 0px;
+}
+.card-body ol li{
+  font-family: century;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #941606;
+}
+.card-body ol li a{
+  color: #bee630;
+  padding: 6px 20px;
+}
+.card-body ol li a:hover{
+  background-color: #132e03;
+}
