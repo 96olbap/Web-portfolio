@@ -21,3 +21,7 @@
   font-size: 1.1rem;
   font-weight: bold;
 }
+.navbar ul li a{
+  color: black;
+  padding: 8px 25px;
+}
